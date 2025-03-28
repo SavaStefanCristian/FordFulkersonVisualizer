@@ -9,7 +9,7 @@ The **Ford-Fulkerson Algorithm** is an approach to solve the Maximum Flow proble
 
 ## Features
 - **Interactive Graph Editing**
-  - Add and remove **nodes** by clicking on the canvas.
+  - Add **nodes** by clicking on the canvas.
   - Create **edges** by selecting two nodes and assigning weights.
   - Drag nodes to reposition them.
 
